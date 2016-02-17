@@ -5,6 +5,8 @@ notification to target devices
 ## USAGE
 #### environment requirement
 rabbitmq server
+A asynchronous apns sdk module should be installed in you 
+environment(https://github.com/kernel1983/tornado_apns)
 #### server start
 ```
 python setup.py install
