@@ -7,6 +7,7 @@ notification to target devices
 rabbitmq server
 #### server start
 ```
+python setup.py install
 worker-apns-start #use --help to see the full options
 ```
 #### example
